@@ -1,7 +1,7 @@
 Hi My name is Mohammed
 =========================
 
-Cybersecurity & Cloud engineer
+Cybersecurity & Cloud engineering
 ------------------------------
 
 *  I'm based in The Netherlands.
